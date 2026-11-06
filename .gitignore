@@ -1,0 +1,9 @@
+data/
+logs/
+*.csv
+*.csv.gz
+*.jsonl
+*.jsonl.gz
+*.zip
+__pycache__/
+.env*
